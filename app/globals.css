@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply font-poppins text-dune
+}
+
+html {
+    @apply scroll-smooth;
+}
+
+.custom-container {
+    @apply mx-auto max-w-[1200px] px-5;
+}
