@@ -33,7 +33,7 @@ const projects = [
             'The purpose of developing an online betting site with ReactJs is to improve the current web application and make it lightning fast so that players can enjoy using it.'
         ],
         img: '/img/projects/betting/betting-desktop.png',
-        link: 'https://new.changesport365.live/#/sports'
+        link: 'https://new.sportgold888.net/'
     },
     {
         title: 'Online Betting (mobile version)',
@@ -43,7 +43,7 @@ const projects = [
             'The reason why it is separated from the desktop version is to make it faster than the desktop version and easier to use on any kind of mobile device.'
         ],
         img: '/img/projects/mobile-betting/mobile.png',
-        link: 'https://m.changesport365.live'
+        link: 'https://m.sportgold888.net/'
     },
     {
         title: 'Plax1 Corporate Website',
@@ -62,7 +62,8 @@ const projects = [
             'I build this website during my lesson of NextJs and tailwind CSS and its fun!.'
         ],
         img: '/img/projects/ramen/ramen.png',
-        link: 'https://ramen-olive.vercel.app/'
+        link: 'https://ramen-olive.vercel.app/',
+        repo: 'https://github.com/cjustinr/restaurant-nextjs'
     },
     {
         title: 'Data Management System of Ecommerce',
@@ -93,7 +94,7 @@ const projects = [
         ],
         img: '/img/projects/portfolio/portfolio.png',
         link: '',
-        repo: ''
+        repo: 'https://github.com/cjustinr/portfolio-nextjs'
     },
     
     
