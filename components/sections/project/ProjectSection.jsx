@@ -118,7 +118,8 @@ const ProjectSection = () => {
         <Section 
             title="Projects" 
             headingDark
-            className="bg-blue-dianne py-6 md:py-11">
+            className="bg-blue-dianne py-6 md:py-11"
+            id="projects">
             {projects.map((i, key) => (
                 <Project 
                     key={key} 
