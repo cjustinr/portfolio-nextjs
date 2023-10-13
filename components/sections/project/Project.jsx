@@ -25,6 +25,7 @@ const Project = ({
                         src="/img/tools.png"
                         width={25}
                         height={25}
+                        alt="tools"
                     />
                     <h5 className="text-xs font-normal my-auto mx-0 text-fog">{tech.join(', ')}</h5>
                 </div>
@@ -57,6 +58,7 @@ const Project = ({
                 <img
                     src={img}
                     className="w-full h-auto rounded-[10px] md:scale-[0.9] transition ease-in-out delay-75 hover:scale-[1]"
+                    alt={title}
                 />
             </motion.div>
         </div>
