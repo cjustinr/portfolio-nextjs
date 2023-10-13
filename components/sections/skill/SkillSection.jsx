@@ -9,7 +9,7 @@ const skills = [
     { title: 'WebSocket', img: 'websocket.png' },
     { title: 'PHP', img: 'php.png' },
     { title: 'Laravel', img: 'laravel.png' },
-    { title: 'CodeIgniter', img: 'codeigniter.png' },
+    { title: 'CodeIgniter', img: 'codeIgniter.png' },
     { title: 'jQuery', img: 'jquery.png' },
     { title: 'Bootstrap', img: 'bootstrap.png' },
     { title: 'HTML', img: 'html.png' },
