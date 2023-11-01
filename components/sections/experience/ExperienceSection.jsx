@@ -13,7 +13,7 @@ const experienceList = [
             'Maintain and implement different template of betting site.'
         ],
         startDate: 'March 2022',
-        endDate: 'Present'
+        endDate: 'October 2023'
     },
     {
         id: 2,
